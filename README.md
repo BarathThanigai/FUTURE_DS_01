@@ -46,7 +46,8 @@ Online_Retail_Sales_Analysis/
 ├── Online_Retail_Sales_Analysis.ipynb     # Main Jupyter notebook with analysis
 ├── Online_Retail_Sales_Analysis.pbix      # Power BI dashboard and visualizations
 ├── Online_Retail_Sales_Analysis.pdf       # Power BI report export (PDF)
-├── OnlineRetail.py                        # Python script with analysis code
+├── Dashboard1.png                         # Dashboard image 1
+├── Dashboard2.png                         # Dashboard image 2
 └── Datasets/
     ├── online_retail.csv                  # Main dataset
     ├── data.csv                           # Alternative dataset
