@@ -76,11 +76,12 @@ Or use the notebook's built-in installation:
 
 1. Navigate to the project directory
 2. Launch Jupyter Notebook:
+   
    ```bash
    jupyter notebook
    ```
-3. Open `Online_Retail_Sales_Analysis.ipynb`
-4. Execute cells sequentially to run the analysis
+4. Open `Online_Retail_Sales_Analysis.ipynb`
+5. Execute cells sequentially to run the analysis
 
 ### Running the Python Script
 
