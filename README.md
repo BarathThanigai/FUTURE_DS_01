@@ -4,6 +4,12 @@
 
 This project performs comprehensive data analysis on online retail sales data. It includes data cleaning, exploratory data analysis (EDA), revenue analytics, and time-series forecasting to identify trends, top-performing products, and geographical revenue patterns.
 
+## Dashboard Preview
+
+![Dashboard](Dashboard1.png)
+
+![Dashboard](Dashboard2.png)
+
 ## Objectives
 
 - **Data Cleaning & Preparation**: Clean and validate raw retail data for analysis
