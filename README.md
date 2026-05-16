@@ -90,11 +90,6 @@ Or use the notebook's built-in installation:
 4. Open `Online_Retail_Sales_Analysis.ipynb`
 5. Execute cells sequentially to run the analysis
 
-### Running the Python Script
-
-```bash
-python OnlineRetail.py
-```
 
 ### Viewing Power BI Dashboard
 
