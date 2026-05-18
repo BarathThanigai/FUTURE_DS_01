@@ -181,6 +181,18 @@ The `Online_Retail_Sales_Analysis.pbix` Power BI dashboard includes:
 - How does the forecast suggest revenue will change?
 - What is the percentage of returns vs. sales?
 
+## Key Insights Obtained
+
+- Revenue was heavily concentrated among a small number of high-performing products
+- The United Kingdom dominated overall sales compared to other regions
+- Sales trends showed clear monthly fluctuations, indicating seasonal demand patterns
+- A high proportion of customers were returning customers, indicating strong customer loyalty and repeat purchase behavior
+- Repeat customers contributed significantly to overall revenue compared to one-time buyers
+- Certain customers exhibited very high purchase frequency and acted as key revenue drivers
+- Customer behavior showed a strong skew toward repeat engagement rather than one-time transactions
+- Regional performance was uneven, highlighting opportunities for expansion beyond top-performing markets
+- Seasonal spikes influenced both new and repeat purchase activity
+
 ## Notes
 
 - **Missing Values**: CustomerIDs with missing values are handled by filling with 'Unknown'
