@@ -41,14 +41,14 @@ The project analyzes online retail transaction data with the following key colum
 ## Project Structure
 
 ```
-Online_Retail_Sales_Analysis/
+FUTURE_DS_01_OnlineRetail_Sales_Analysis/
 ├── README.md                              # Project documentation
 ├── Online_Retail_Sales_Analysis.ipynb     # Main Jupyter notebook with analysis
 ├── Online_Retail_Sales_Analysis.pbix      # Power BI dashboard and visualizations
 ├── Online_Retail_Sales_Analysis.pdf       # Power BI report export (PDF)
 ├── Dashboard1.png                         # Dashboard image 1
 ├── Dashboard2.png                         # Dashboard image 2
-└── Datasets/
+└── Datasets/                              # Dataset zip file
     ├── online_retail.csv                  # Main dataset
     ├── data.csv                           # Alternative dataset
     └── Sample - Superstore.csv            # Sample data
